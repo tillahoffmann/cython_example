@@ -102,3 +102,4 @@ ENV/
 
 # Ignore generated .c files
 *.c
+.vscode/
