@@ -1,3 +1,0 @@
-name: cython_example
-dependencies:
-  - cython

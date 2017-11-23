@@ -1,3 +1,5 @@
+import pyximport
+pyximport.install()
 from cython_example.speedy_code import add_two_numbers
 
 a = 5
